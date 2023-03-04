@@ -1,4 +1,4 @@
-# jsdelivrcdnapp
+# jsdelivrcdn
 A fast,safe,convenient CDN，it works on Cloudflare Pages.
 我们创始于2023年3月4日，提供一个快捷，方便，安全的CDN。并提供源码开放下载。
 下载源码后，上传至Cloudflare Pages即可。
